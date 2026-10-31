@@ -15,6 +15,11 @@ Also inside the library: a suffix automaton, minimal rotation, and an inverse Bu
 
 `--demo` opens a temporary database with sample strings.
 
+## Download
+
+Windows: get the `.exe` from [Releases](https://github.com/Apurba94/string-algo-lab/releases/latest) and double-click it. No installation or Python is needed.
+Windows may show a SmartScreen warning the first time because the program is not code-signed: choose *More info*, then *Run anyway*.
+
 ## From source
 
 ```bash
